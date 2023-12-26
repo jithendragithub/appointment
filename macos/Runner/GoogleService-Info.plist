@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544678282316-bojv6cgk6ii3rgie19cm9aepjagi73vi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544678282316-bojv6cgk6ii3rgie19cm9aepjagi73vi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTFfEdggbbX6IUYCrTCuzO6bci3D6KdOY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544678282316</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appointment.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>doctor-appointment-1d831</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctor-appointment-1d831.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544678282316:ios:432424be151b15555a60e9</string>
+</dict>
+</plist>
